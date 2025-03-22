@@ -1,2 +1,0 @@
-(use $a from $type_a)
-(typename $c (record (field $first_a $a) (field $second_a $a)))
